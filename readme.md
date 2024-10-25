@@ -4,5 +4,6 @@
 </div>
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=Hasnaaaae&theme=whatsapp-dark2&hide_border=true&border_radius=16&card_width=800"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hasnaaaae&theme=blux)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hasnaaaae&theme=blux" alt="GitHub Streak" /></a>
+ 
 </div>
