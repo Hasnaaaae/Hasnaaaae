@@ -7,6 +7,3 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnaaaae&theme=midnight-purple" alt="GitHub Streak" /></a>
 </div>
 
-<p align="center"> 
- ![Hasnae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaaaae&show_icons=true&theme=midnight-purple)
-</p>
