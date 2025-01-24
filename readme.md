@@ -8,6 +8,5 @@
 </div>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hasnaaaae/count.svg" />
+ ![Hasnae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaaaae&show_icons=true&theme=midnight-purple)
 </p>
