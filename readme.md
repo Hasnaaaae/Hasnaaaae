@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hasnaaaae&theme=midnight-purple)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnaaaae&theme=midnight-purple" alt="GitHub Streak" /></a>
 </div>
 
 <p align="center"> 
