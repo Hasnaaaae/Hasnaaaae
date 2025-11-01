@@ -8,7 +8,7 @@
 </div>
 
 ---
-### 🛠️: Languages and Tools:
+### Languages && Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg#L1" alt="HTML" weight="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" weight="35" height="35" />
