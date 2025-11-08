@@ -13,7 +13,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg#L1" alt="HTML" weight="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" weight="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg#L1" alt="Javascript" weight="35 height="35" />
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg#L1" alt="Javascript" weight="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" weight="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" alt="Golang" weight="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" weight="45" height="45" />
