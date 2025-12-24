@@ -1,5 +1,10 @@
 <div align="center">
 
+### <div align="center">I'm Hasnaaaae, a full-stack developer</div>  
+
+- I’m currently working with Java
+- **Majority of my repos are private**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnaaaae&langs_count=12)
 </div>
 <div align="center">
@@ -13,3 +18,9 @@
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,java,angular,c,django,docker,figma,git,github,graphql,html,js,css,sqlite,linux,maven,mysql,nextjs,nodejs,postgres,py,spring,react,rust,ts,vue&perline=13)](https://skillicons.dev)
+
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=Hasnaaaae&label=Profile%20views&color=0e75b6&style=flat" alt="Hasnaaaae" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hasnaaaae">
+</p>
