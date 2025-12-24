@@ -25,4 +25,4 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,c,cpp,django,docker,express,figma,flask,git,githubactions,go,graphql,htmx,java,jest,kubernetes,laravel,latex,linux,lua,maven,mongodb,mysql,nextjs,nodejs,php,postgres,py,rails,react,rust,sass,tailwind,ts,vite,vue,wordpress&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,django,docker,figma,git,githubactions,go,graphql,htmx,java,jest,kubernetes,linux,lua,maven,mongodb,mysql,nextjs,nodejs,postgres,py,react,rust,sass,tailwind,ts,vite,vue&perline=13)](https://skillicons.dev)
