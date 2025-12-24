@@ -8,21 +8,8 @@
 </div>
 
 ---
-### Languages && Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg#L1" alt="HTML" weight="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" weight="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg#L1" alt="Javascript" weight="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" weight="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" alt="Golang" weight="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" weight="45" height="45" />
- <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" weight="45" height="45" />
-   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg#L1" alt="Git" weight="45" height="45" />
-   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" weight="45" height="45" />
- <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="Docker" weight="45" height="45" />
-</div>
 
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,django,docker,figma,git,githubactions,go,graphql,htmx,java,jest,kubernetes,linux,lua,maven,mongodb,mysql,nextjs,nodejs,postgres,py,react,rust,sass,tailwind,ts,vite,vue&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,angular,c,django,docker,figma,git,github,graphql,html,js,css,sqlite,linux,maven,mysql,nextjs,nodejs,postgres,py,spring,react,rust,ts,vue&perline=13)](https://skillicons.dev)
