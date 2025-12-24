@@ -1,9 +1,9 @@
-<div align="center">
-
 ### <div align="center">I'm Hasnaaaae, a full-stack developer</div>  
 
 - I’m currently working with Java
 - **Majority of my repos are private**
+
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnaaaae&langs_count=12)
 </div>
