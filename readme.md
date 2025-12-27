@@ -22,5 +22,4 @@
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=Hasnaaaae&label=Profile%20views&color=0e75b6&style=flat" alt="Hasnaaaae" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Hasnaaaae">
 </p>
