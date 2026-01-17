@@ -1,5 +1,5 @@
 ### <div align="center">I'm Hasnaaaae, a full-stack developer</div>  
-<img align="right" src="https://code-b.dev/_next/image?url=https%3A%2F%2Fassets.code-b.dev%2Fuploads%2Fmedia%2F1709674661110-1.gif&w=1920&q=75" alt="Fille" width="20%" /><br>
+<img align="right" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif" alt="Fille" width="35%" /><br>
 
 - I’m currently working with Java
 - **Majority of my repos are private**
