@@ -1,12 +1,12 @@
 ### <div align="center">I'm Hasnaaaae, a full-stack developer</div>  
-<img align="right" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif" alt="Fille" width="35%" /><br>
+<img align="right" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif" alt="Fille" width="30%" /><br>
 
 - I’m currently working with Java
 - **Majority of my repos are private**
-
+<br>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnaaaae&langs_count=12)
+
 <!-- </div> -->
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnaaaae&theme=great-gatsby" alt="GitHub Streak" /></a>  -->
