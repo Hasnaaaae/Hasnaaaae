@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hasnaaaae, a Full-Stack Developer</div>  
 <img align="right" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif" alt="Fille" width="30%" /><br>
 
-- I’m currently working with Java
+- I’m currently working with Python and Java
 - **Majority of my repos are private**
 <br>
 <div align="center">
